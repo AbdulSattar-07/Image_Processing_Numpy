@@ -82,3 +82,4 @@ plt.show()
 
 This comprehensive guide provides everything needed to master image processing with NumPy!
 
+
