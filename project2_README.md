@@ -8,7 +8,7 @@ This project teaches advanced NumPy concepts through practical image processing.
 - Understand array broadcasting for image operations
 - Learn convolution and filtering techniques
 - Practice mathematical operations on images
-- Implement color space transformations
+- Implement color - space transformations
 - Create custom image filters
 
 ## 📁 Project Structure
@@ -81,3 +81,4 @@ plt.show()
 
 
 This comprehensive guide provides everything needed to master image processing with NumPy!
+
